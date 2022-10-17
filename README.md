@@ -14,7 +14,7 @@
  </p>
  
 ### Animal Detail Pages  
-  <p>
+ <p>
  </br>
  <img align="left" src="https://user-images.githubusercontent.com/96048173/195866526-c9167568-f6c6-46ad-a40d-eef09043ee86.jpg" alt="Screenshot_20221014_172642" width=250 height=480/>
   
